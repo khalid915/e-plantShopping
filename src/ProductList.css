@@ -99,7 +99,7 @@ body {
 
 .product-button {
     background-color: #e74c3c;
-    color: #fff;
+    color: #c15050;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -149,8 +149,8 @@ body {
 .tag img {
     height: 70px;
     width: 70px;
-    border-radius: 70%;
-    
+    border-radius: 600%;
+    margin-right: 10px;
 }
 
 .luxury {
